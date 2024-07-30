@@ -19,13 +19,6 @@
 - https://github.com/docker/awesome-compose
 - https://github.com/search?q=docker&type=repositories
 
-
-
-# Collections Of resources
-
-- https://medium.com/@datasciencenexus/all-in-one-awesome-cyber-security-resources-be03c7a9643
-- https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/readme/ Collection of collections of resources for different fields
-
 # Reverse Engineering And PWN
 
 - https://exploitation.ashemery.com/
@@ -47,6 +40,12 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe1862IFiI7I61fHaTGh4DZtv9 - Privi
 
 - https://falconspy.org/ Security Research, Community Specialist [@hackthebox](https://github.com/hackthebox) | Former Community Ambassador for OffSec
 
+# Collections Of resources
+
+- https://medium.com/@datasciencenexus/all-in-one-awesome-cyber-security-resources-be03c7a9643
+- https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/readme/ Collection of collections of resources for different fields
+- https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide - Security resources lists
+
 # Randoms
 
 - https://www.youtube.com/playlist?list=PLlRNHRrDwLyM0jrj7LNQ-sVsP5GckNzfy
@@ -59,7 +58,7 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe1862IFiI7I61fHaTGh4DZtv9 - Privi
 
 - https://github.com/rezaduty/cybersecurity-career-path - CyberSec career Paths for different fields
 
-- https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide - Security resources lists
+- 
 
 - 
 
