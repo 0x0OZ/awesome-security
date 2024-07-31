@@ -24,6 +24,7 @@
 - https://exploitation.ashemery.com/
 - https://samsclass.info/127/ED_2020.shtml - Exploit development
 - https://guyinatuxedo.github.io/index.html - Binary Exploitation and Reverse Engineering
+- https://github.com/wtsxDev/reverse-engineering - List of awesome reverse engineering resources
 
 # Pentesting
 
@@ -35,6 +36,10 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe1862IFiI7I61fHaTGh4DZtv9 - Privi
 - https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md - Bug bounty CheckList
 - https://medium.com/@saintlafi/active-directory-cheat-sheet-94e0bb9bed2 - AD cheat sheet
 - https://medium.com/@saintlafi/linux-privilege-escalation-for-oscp-and-beyond-cheat-sheet-24fb9fe13058 Linux privilege escalation cheat sheet
+- https://github.com/EdOverflow/bugbountyguide - A launchpad for bug bounty programs and bug bounty hunters.
+- https://github.com/EdOverflow/bugbounty-cheatsheet - A list of interesting payloads, tips and tricks for bug bounty hunters.
+- https://bugbountyforum.com/ - Bug bounty forum, resources, and tools
+- https://bugbountyguide.com/ - Kick start into bug bounty
 
 # People
 
