@@ -1,16 +1,17 @@
 # Awesome Security
 
-## Web
+# Web
 
-- https://github.com/vietdien2005/awesome-web List of web security-related resources
-- https://github.com/qazbnm456/awesome-web-security List of web security-related resources
-- https://github.com/cyberheartmi9/awesome-web-security List of web security-related resources
-- https://github.com/kaiiyer/awesome-vulnerable List of vulnerable machines and CTFs
-- https://github.com/zigoo0/ArabicWebAppsPentesting Arabic list of Web app pentesting resources  and tips 
+- https://github.com/vietdien2005/awesome-web - List of web security-related resources
+- https://github.com/qazbnm456/awesome-web-security - List of web security-related resources
+- https://github.com/cyberheartmi9/awesome-web-security - List of web security-related resources
+- https://github.com/kaiiyer/awesome-vulnerable - List of vulnerable machines and CTFs
+- https://github.com/zigoo0/ArabicWebAppsPentesting - Arabic list of Web app pentesting resources  and tips 
 - https://github.com/vavkamil/awesome-vulnerable-apps - List of vulnerable web applications for different bugs
-- https://brootware.github.io/awesome-cyber-security-university/ List of awesome security learning resources and materials
+- https://brootware.github.io/awesome-cyber-security-university/ - List of awesome security learning resources and materials
+- https://gosecure.github.io/ - GoSecure and Open-Source 
 
-## Docker
+# Docker
 
 - https://docs.docker.com/
 - https://www.youtube.com/watch?v=gAkwW2tuIqE
@@ -28,7 +29,8 @@
 
 # Pentesting
 
-https://www.youtube.com/playlist?list=PLeLcvrwLe1862IFiI7I61fHaTGh4DZtv9 - Privilege escalation techniques
+- https://www.youtube.com/playlist?list=PLeLcvrwLe1862IFiI7I61fHaTGh4DZtv9 - Privilege escalation techniques
+- https://github.com/yevh/VulnPlanet - Vulnerable Codes snippets with fixes for different fields (web3/web3/IOS/...)
 
 # Bug Bounty
 
@@ -54,13 +56,9 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe1862IFiI7I61fHaTGh4DZtv9 - Privi
 # Randoms
 
 - https://www.youtube.com/playlist?list=PLlRNHRrDwLyM0jrj7LNQ-sVsP5GckNzfy
-
 - https://linuxjourney.com/ - Linux courses
-
 - https://github.com/jassics/security-study-plan/ - Common skills needed for different security fields
-
 - https://project-awesome.org/sbilly/awesome-security
-
 - https://github.com/rezaduty/cybersecurity-career-path - CyberSec career Paths for different fields
 
 - 
