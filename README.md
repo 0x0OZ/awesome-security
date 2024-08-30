@@ -19,6 +19,7 @@
 - https://www.youtube.com/watch?v=pTFZFxd4hOI
 - https://github.com/docker/awesome-compose
 - https://github.com/search?q=docker&type=repositories
+- https://learn.microsoft.com/en-us/virtualization/windowscontainers/deploy-containers/system-requirements - Windows Containers, (you heard right, **windows**) 
 
 # Reverse Engineering And PWN
 
@@ -42,6 +43,7 @@
 - https://github.com/EdOverflow/bugbounty-cheatsheet - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - https://bugbountyforum.com/ - Bug bounty forum, resources, and tools
 - https://bugbountyguide.com/ - Kick start into bug bounty
+- https://www.bugbountyhunter.com/
 
 # People
 
